@@ -1,0 +1,6 @@
+framework module Pods_YemekSiparisAppTests {
+  umbrella header "Pods-YemekSiparisAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
